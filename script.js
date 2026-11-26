@@ -1,7 +1,6 @@
 // Přepínač: zatím bez backendu
 const USE_BACKEND = true;
-
-const BACKEND_URL = "http://127.0.0.1:8000/chat";
+const BACKEND_URL = "https://docs-c4ti.onrender.com/chat";
 const STUDENT_ID = "Gracjan_CemerysITE";
 
 const form = document.getElementById("question-form");
